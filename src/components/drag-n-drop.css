@@ -1,0 +1,8 @@
+.drag-n-drop {
+  height: 100vh;
+  background: green;
+}
+
+.drag-n-drop.-active {
+  background: red;
+}
